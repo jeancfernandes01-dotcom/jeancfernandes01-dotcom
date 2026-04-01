@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu sou o Jean!
 
-<!--
-**jeancfernandes01-dotcom/jeancfernandes01-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de ADS na UniCesumar e estou em transição de carreira da barbearia para o desenvolvimento de software. Meu foco é aplicar a precisão e o detalhismo que aprendi na barbearia em códigos funcionais e organizados.
 
-Here are some ideas to get you started:
+No que estou trabalhando:
+* Java: Estudando POO, classes e métodos. [Ver Projetos Java](https://github.com)
+* Python: Automações e lógica para o cotidiano. [Ver Projetos Python](https://github.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Objetivo:
+Conquistar meu primeiro estágio em Janeiro de 2027.
+
+---
+Transformando o foco nos detalhes da barbearia em linhas de código.
